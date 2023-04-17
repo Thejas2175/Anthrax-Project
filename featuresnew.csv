@@ -1,0 +1,57 @@
+Temperature,Breathing,Lameness,Milk Production,appetite loss,Blisters,Abortion/Infertility,Nascal discharge,
+no,yes,no,yes,yes,no,no,no
+no,yes,yes,yes,yes,yes,yes,no
+no,yes,yes,yes,no,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+Normal,Difficult,yes,"No Change",no,no,yes,no
+High,Normal,yes,"No Change",no,no,no,no
+High,Difficult,no,"No Change",no,no,no,no
+High,Difficult,no,"No Change",no,no,no,no
+High,Difficult,no,"No Change",no,no,yes,no
+High,Difficult,no,"No Change",no,yes,yes,no
+High,Normal,no,"No Change",no,yes,yes,no
+High,Difficult,no,Lower,yes,no,yes,no
+High,Normal,yes,"No Change",no,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,no,yes,no
+High,Difficult,yes,"No Change",yes,no,yes,no
+High,Difficult,no,"No Change",yes,yes,no,no
+Normal,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,no,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,Lower,yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Normal,yes,"No Change",yes,yes,yes,no
+Normal,Normal,yes,"No Change",yes,yes,yes,no
+Normal,Normal,yes,"No Change",yes,yes,yes,no
+Normal,Normal,yes,Lower,yes,yes,yes,no
+Normal,Normal,yes,Lower,yes,no,yes,no
+Normal,Normal,yes,Lower,yes,no,no,no
+Normal,Normal,yes,Lower,yes,no,yes,no
+High,Difficult,yes,"No Change",yes,no,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",no,yes,yes,no
+High,Difficult,yes,"No Change",no,yes,no,no
+High,Difficult,yes,"No Change",yes,yes,yes,no
+High,Difficult,yes,"No Change",yes,no,yes,no
+High,Difficult,no,"No Change",no,no,no,no
+High,difficult,no,"no Change",no,no,no,no
+High,difficult,No,"no Change",no,no,no,no
+High,Difficult,No,"no Change",no,no,no,no
+High,Difficult,No,"no change",no,no,no,no
+High,Difficult,No,"no change",no,no,no,yes
+High,Difficult,No,"no change",no,no,no,yes
+High,Difficult,No,"no change",no,no,no,yes

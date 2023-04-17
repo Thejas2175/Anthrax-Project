@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Login</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+ 
+</head>
+<body> 
+ 
+
+
+<div class="container-fluid">
+</br>
+<div class=row>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+    <div class="col-md-3">
+
+	</div>
+	<div class="col-md-5">
+		<div class="panel panel-primary">
+			<div class="panel-heading">Login Page</div>
+                  <div class="panel-body">
+                  	<form name="login">
+                  		<div class="row">
+                  			<div class="col-md-3">
+                  				<label>Username</label>
+                  			</div>
+                  			<div class="col-md-4">
+                  		 		<input type="text" name="userid" id="user" class="form-control">
+                  			</div>
+                  		</div>
+                    </br>
+                  	<div class="row">
+                  	<div class="col-md-3">
+                  		<label>Password</label>
+                  	</div>
+                  	<div class="col-md-4">
+                  		<input type="Password" name="pswrd" id="pwd" class="form-control">
+                  	</div>
+                  	</div>
+                  	</br>
+                  	<div class="row">
+                  		<div class="col-md-3">
+                  		
+                  	</div>
+                  	<div class="col-md-3">
+                  		
+                  		<input type="button" value="Login" name="log" class="btn btn-primary" onclick="check(this.form)" />
+                  		
+                  	</div>
+                  	</div>
+                  	</form>
+                  </div>
+		    </div>
+         </div>        
+	</div>
+</div>
+
+
+
+ <script language="javascript">
+            function check(form) { 
+                if(form.userid.value == "admin" && form.pswrd.value == "admin") {
+                	window.close('login.html');
+                    window.open('mainpage.html');
+
+                }
+                else {
+                    alert("Error Password or Username");
+                }
+            }
+        </script>
+
+  
+
+</body>
